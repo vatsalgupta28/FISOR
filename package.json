@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node main.js"
   },
-  "author": "Moulik Jindal",
+  "author": "Vatsal Gupta",
   "license": "ISC",
   "bin": {
     "valala": "main.js"
